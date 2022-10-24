@@ -42,7 +42,7 @@
             #name{ margin-bottom:0.875rem; }
             label{ color:#ccc; font-size:16px; margin-bottom:5px; }
         }
-        > button{ @include buttons(#5CC1FF) }
+        > button{ height:fit-content; @include buttons(#5CC1FF) }
     }
     .lmitteForm{ width:100%; padding:40px; background-color:#333; border-top:1px solid #666; border-bottom:1px solid #666; }
 }
